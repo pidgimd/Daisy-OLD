@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [PINIDU](https://telegra.ph/file/f321a9e5def8e34736c5b.jpg)
+Hello there, I'm [ashi](https://telegra.ph/file/d76dffaa8d3fe4e64d8cc.jpg)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am an ashi Themed Group Managing Bot and I will help in managing your group
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/pinidux1?startgroup=true"
+            text="💫 Add ashi to your group 💫", url="t.me/I_am_rush?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/f321a9e5def8e34736c5b.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/d76dffaa8d3fe4e64d8cc.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
